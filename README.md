@@ -1,1 +1,4 @@
 # data-science-titanic
+## Objetivo:
+
+  
