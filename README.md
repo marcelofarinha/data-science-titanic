@@ -23,10 +23,10 @@
 >> #### Formato dos *datasets*:
 >> - .csv (valores separados por vírgulas)
 >### Roadmap:
->> 1. Bussines Understanding [x]
+>> 1. Bussines Understanding
 >>> - [x] Entender o problema
 >>> - [x] Definir um objetivo
->> 2. Data Understanding [x]
+>> 2. Data Understanding
 >>> - [x] Importar as bibliotecas utilizadas
 >>> - [x] Importar os *datasets* utilizando a biblioteca Pandas
 >>> - [x] Analisar os *datasets*
