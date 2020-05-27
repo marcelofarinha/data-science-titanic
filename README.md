@@ -8,16 +8,16 @@
 >> **O Notebook além de estar neste repositório também está no *[Kaggle](https://www.kaggle.com/marcelofarinha/titanic-notebook)***
 > ### Tecnologias utilizadas:
 >> #### Ambiente de desenvolvimento:
->>> - Jupyter Notebook - Servidor do Kaggle
+>> - Jupyter Notebook - Servidor do Kaggle
 >> #### Linguagem de programação:
->>> - Python
+>> - Python
 >> #### Bibliotecas:
->>> - Pandas
->>> - Numpy
->>> - Seaborn
->>> - Matplotlib
+>> - Pandas
+>> - Numpy
+>> - Seaborn
+>> - Matplotlib
 >> #### Formato dos *Datasets*:
->>> - .csv (valores separodos por vírgulas)
+>> - .csv (valores separados por vírgulas)
 >### Roadmap:
 >> - [x] Importar as bibliotecas utilizadas
 >> - [x] Importar os *datasets* utilizando a biblioteca Pandas
