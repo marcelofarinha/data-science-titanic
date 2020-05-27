@@ -17,6 +17,7 @@
 >> - Numpy
 >> - Seaborn
 >> - Matplotlib
+>> - SciKit Learn
 >> #### Formato dos *datasets*:
 >> - .csv (valores separados por vírgulas)
 >## Roadmap:
