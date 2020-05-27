@@ -1,5 +1,4 @@
 > # Estudo de *Machine Learning* com Titanic DataSet
-
 >> ## Objetivo Principal:
 >>> Utilizar os *datasets* de treino e teste do desafio *Titanic*, disponível no *[Kaggle]*(https://www.kaggle.com/c/titanic)
 >>> para criar um algoritimo de *Machine Learning* que tem o intuido de adivinhar se um passageiro
