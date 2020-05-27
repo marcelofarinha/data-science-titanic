@@ -1,11 +1,7 @@
 > # Estudo de *Machine Learning* com Titanic DataSet
 > ## Objetivo Principal:
->> Utilizar os *datasets* de treino e teste do desafio *Titanic*, disponível no *[Kaggle](https://www.kaggle.com/c/titanic)*
->> para criar um algoritimo de *Machine Learning* que tem o intuido de adivinhar se um passageiro
->> sobreviveu ou não com nas *features* do *dataset*, com exceção da que diz respeiro a sobreviver ou não.
->> E que tenha no mínimo 80% de acurácia.
->> 
->> **O Notebook além de estar neste repositório também está no *[Kaggle](https://www.kaggle.com/marcelofarinha/titanic-notebook)***
+>> Construir um algoritmo de *Machine Learning* para prever o índice de sobrevivência dos passageiros do *Titanic*, que tenha pelo menos 80% de acurácia, baseadas nas *features* dos *datasets* disponibilizados no desafio do *[Kaggle](https://www.kaggle.com/c/titanic)*.
+
 >### Metodologia utilizada para mineração dos dados:
 >> - CRISP-DM
 >### Classificador de dados utilizado no *Machine Learning*:
