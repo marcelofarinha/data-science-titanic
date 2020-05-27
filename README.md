@@ -30,14 +30,14 @@
 >>> - [x] Importar as bibliotecas utilizadas
 >>> - [x] Importar os *datasets* utilizando a biblioteca Pandas
 >>> - [x] Analisar os *datasets*
->> 3. Data Preparation [ ]
+>> 3. Data Preparation
 >>> - [x] Criar classes baseados nos pronomes de tratamento
 >>> - [x] Preencher os valores vazios das idades, baseados nos nas médias de idade dos pronomes de tratamento
 >>> - [ ] Criar classes para as idades
->> 4. Modeling [ ]
+>> 4. Modeling
 >>> - [ ] Definir o classificador dos dados
->> 5. Evaluation [ ]
->> 6. Deployment [ ]
+>> 5. Evaluation
+>> 6. Deployment
 
 
 
