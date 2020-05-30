@@ -1,5 +1,11 @@
 > # Estudo de *Machine Learning* com Titanic DataSet
-> ## Objetivo Principal:
+> ## Problemática
+>> O naufrágio do RMS Titanic é uma das tragédias mais famosas da história. Em 15 de abril de 1912, durante sua viagem inaugural, o Titanic afundou após colidir com um iceberg, matando 1.502 dos 2.224 passageiros e tripulantes. 
+>> Naquela época, a construção do Titanic levou cerca de 2 anos e custou 7,5 milhões de dólares. O navio estava sendo operado com uma tripulação de 892 pessoas e poderia comportar até 2.432 passageiros, distribuídos pelas três classes disponíveis. O projeto foi construído para ser o mais seguro e luxuoso navio da época, foi lançado ao mar em 1911, ganhando fama de ser “inafundável”.
+>> Os motivos que contribuíram para o naufrágio foram: fatores naturais, como o clima; e causas humanas, como negligência, pois não haviam botes salva-vidas suficientes para os passageiros e tripulantes.
+Embora aqueles que escaparam com vida tiveram sua sorte, alguns grupos de pessoas eram mais propensos a escaparem da morte do que outros. Por exemplo, mulheres, crianças e passageiros da 1ª Classe, deixando evidente que existe algum padrão que pode ser extraído dos dados brutos, que será apresentado ao longo do projeto.
+
+> ## Objetivo
 >> Construir um algoritmo de *Machine Learning* para prever o índice de sobrevivência dos passageiros do *Titanic*, que tenha pelo menos 80% de acurácia, baseadas nas *features* dos *datasets* disponibilizados no desafio do *[Kaggle](https://www.kaggle.com/c/titanic)*.
 
 >## Metodologia:
