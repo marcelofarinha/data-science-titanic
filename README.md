@@ -1,4 +1,9 @@
 > # Estudo de *Machine Learning* com Titanic DataSet
+
+<p align="center">
+  <img width="550" height="250" src="https://canalhistoria.pt/wp-content/uploads/2016/05/1.Portada.jpg">
+</p>
+
 > ## Problemática
 >> O naufrágio do RMS Titanic é uma das tragédias mais famosas da história. Em 15 de abril de 1912, durante sua viagem inaugural, o Titanic afundou após colidir com um iceberg, matando 1.502 dos 2.224 passageiros e tripulantes. 
 >> Naquela época, a construção do Titanic levou cerca de 2 anos e custou 7,5 milhões de dólares. O navio estava sendo operado com uma tripulação de 892 pessoas e poderia comportar até 2.432 passageiros, distribuídos pelas três classes disponíveis. O projeto foi construído para ser o mais seguro e luxuoso navio da época, foi lançado ao mar em 1911, ganhando fama de ser “inafundável”.
