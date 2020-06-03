@@ -4,6 +4,8 @@
   <img width="550" height="250" src="https://canalhistoria.pt/wp-content/uploads/2016/05/1.Portada.jpg">
 </p>
 
+> A história do Titanic é muito conhecida, tendo originado diversos livros, filmes e afins. É válido lembrar que a história narrada de forma célebre por James Cameron em seu filme de 1997, ilustra perfeitamente o motivo deste desafio. Vamos começar com uma breve perspectiva sobre o tema: 
+O Titanic foi um navio de passageiros construído nos estaleiros da Harland and Wolff durante o período de março de 1909 a maio de 1911 em Belfast no Reino Unido. A embarcação partiu em sua viagem inaugural de Southampton para Nova Iorque em 10 de abril de 1912, com passagem em Cherbourg-Octeville na França e em Queenstown na Irlanda. Devido a sua excelente projetação, gerou boatos de que a embarcação seria ‘inafundável’, porém, as 23h40min do dia 14 de abril, a embarcação comportando 2.432 pessoas se chocou contra um iceberg, dos quais estima-se que apenas 710 tenham sobrevivido (apenas 32% desses passageiros sobreviveram ao naufrágio se tornando assim o maior desastre marítimo em tempos de paz da história).
 > ## Problemática
 >> O naufrágio do RMS Titanic é uma das tragédias mais famosas da história. Em 15 de abril de 1912, durante sua viagem inaugural, o Titanic afundou após colidir com um iceberg, matando 1.502 dos 2.224 passageiros e tripulantes. 
 >> Naquela época, a construção do Titanic levou cerca de 2 anos e custou 7,5 milhões de dólares. O navio estava sendo operado com uma tripulação de 892 pessoas e poderia comportar até 2.432 passageiros, distribuídos pelas três classes disponíveis. O projeto foi construído para ser o mais seguro e luxuoso navio da época, foi lançado ao mar em 1911, ganhando fama de ser “inafundável”.
