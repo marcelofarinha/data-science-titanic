@@ -42,6 +42,7 @@ Embora aqueles que escaparam com vida tiveram sua sorte, alguns grupos de pessoa
 >>> - [x] Analisar os *datasets*
 >> 3. Data Preparation
 >>> - [x] Criar classes baseados nos pronomes de tratamento
+>>> - [x] Substituir valores da *feature* 'Sex' para valores numéricos;
 >>> - [x] Preencher os valores vazios das idades, baseados nos nas médias de idade dos pronomes de tratamento
 >>> - [x] Criar classes para as idades
 >> 4. Modeling
