@@ -18,7 +18,14 @@ Embora aqueles que escaparam com vida tiveram sua sorte, alguns grupos de pessoa
 >> - Será utilizada o CRISP-DM (*Cross Industry Standard Process for Data Mining*), é uma metodologia de processo de mineração de dados, capaz de transformar os dados em conhecimento e informações para estratégias de negócio.
 
 >### Classificador de dados utilizado no *Machine Learning*:
->> - Ainda não definido
+>> * Cross Validation com K-fold;
+>> * KNN;
+>> * Árvore de Decisão; 
+>> * Florestas Aleatórias (Random Forest);
+>> * Naive Bayes;
+>> * Support Vector Machine (SVM);
+>> * QDA; 
+>> * Regressão Linear.
 >### Tecnologias utilizadas:
 >> #### Ambiente de desenvolvimento:
 >> - Jupyter Notebook - Servidor do Kaggle
